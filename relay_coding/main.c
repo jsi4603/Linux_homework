@@ -34,6 +34,7 @@ int main(){
 	printf("Hello~~!!!^^\n");
 	
 	printf("Hi~~!!\n");
+	printf("hi~!~!~!~!~!\n");
 
 
 	printf("Hi there~! Today is the duedate of this assignment.\n");
